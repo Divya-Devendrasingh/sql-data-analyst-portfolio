@@ -35,14 +35,14 @@ This repository contains SQL practice and real-world projects covering:
 sql-data-analyst-portfolio/
 │
 ├── sql-basics/
-│   ├── sql_basic_intro.md
+│   ├── an_intro_of_sql_basics.md
 │   ├── basic_filters.sql
 │   ├── pattern_matching.sql
 │   ├── sorting.sql
 │   ├── string_functions.sql
 │   └── README.md
 ├── sql-intermediate/
-│   ├── sql_intermediate_intro.md
+│   ├── an_intro_of_sql_intermediate.md
 │   ├── sql-joins/
 │   │   ├── data_setup.sql
 │   │   ├── basic_joins.sql
