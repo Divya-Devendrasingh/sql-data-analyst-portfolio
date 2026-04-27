@@ -54,6 +54,7 @@ This folder contains SQL queries demonstrating how to combine multiple tables.
 sql-data-analyst-portfolio/
 │
 ├── sql-basics/
+│   ├── a_brief_introduction.md
 │   ├── basic_filters.sql
 │   ├── pattern_matching.sql
 │   ├── sorting.sql
