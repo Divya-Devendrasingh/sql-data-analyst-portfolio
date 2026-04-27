@@ -39,26 +39,22 @@ sql-data-analyst-portfolio/
 │   ├── basic_filters.sql
 │   ├── pattern_matching.sql
 │   ├── sorting.sql
-│   ├── string_functions.sql
-│   └── README.md
+│   └── string_functions.sql
 ├── sql-intermediate/
 │   ├── an_intro_of_sql_intermediate.md
 │   ├── joins/
 │   │   ├── data_setup.sql
 │   │   ├── basic_joins.sql
 │   │   ├── join_with_conditions.sql
-│   │   ├── joins_with_aggregation.sql
-│   │   └── README.md
+│   │   └── joins_with_aggregation.sql
 │
 │   ├── aggregation/
 │   │   ├── group_by.sql
-│   │   ├── having.sql
-│   │   └── README.md
+│   │   └──  having.sql
 │
 │   ├── window-functions/
 │   │   ├── row_number.sql
-│   │   ├── rank_dense_rank.sql
-│   │   └── README.md
+│   │   └── rank_dense_rank.sql
 ├── sql-advanced/
 ├── sql-projects/
 │
