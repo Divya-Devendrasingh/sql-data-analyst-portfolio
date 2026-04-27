@@ -2,50 +2,31 @@
 
 This repository contains SQL practice and real-world projects covering:
 
-- Data cleaning
-- Aggregations
-- Joins
-- Window functions
-- Business case analysis
+---
 
-Tools used:
-- MySQL / PostgreSQL
-- Real datasets (sales, e-commerce)
+## 🧠 Topics Covered
 
-## 📌 Topics Covered
+- Data Cleaning  
+- Aggregations  
+- Joins  
+- Window Functions  
+- Business Case Analysis  
 
-# SQL Basics
+---
 
-This folder contains foundational SQL queries including:
+## 🛠️ Tools Used
 
-- Filtering using WHERE
-- Pattern matching using LIKE
-- Sorting using ORDER BY
-- Conditional logic (AND, NOT, BETWEEN)
+- MySQL / PostgreSQL  
+- Real-world style datasets (sales, e-commerce)
 
-Dataset used:
-employees table (id, name, department, salary, joining_date)
+---
 
-# SQL JOINS
+## 📚 Learning Path
 
-This folder contains SQL queries demonstrating how to combine multiple tables.
-
-## Topics Covered:
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- Finding missing data using JOIN + NULL
-- Aggregations with JOIN (SUM, COUNT)
-
-## Example Tables:
-- Customers (customer_id, name, city)
-- Orders (order_id, customer_id, amount)
-
-## Key Learnings:
-- INNER JOIN returns matching records
-- LEFT JOIN keeps all left table records
-- LEFT JOIN + NULL helps find missing relationships
-- Aggregations help derive business insights
+- SQL Basics → Filtering, Sorting, Functions  
+- SQL Intermediate → Joins, Aggregations, Window Functions  
+- SQL Advanced → (Coming soon)  
+- SQL Projects → (Coming soon)  
 
 ---
 
@@ -54,20 +35,30 @@ This folder contains SQL queries demonstrating how to combine multiple tables.
 sql-data-analyst-portfolio/
 │
 ├── sql-basics/
-│   ├── a_brief_introduction.md
+│   ├── sql_basic_intro.md
 │   ├── basic_filters.sql
 │   ├── pattern_matching.sql
 │   ├── sorting.sql
 │   ├── string_functions.sql
 │   └── README.md
-├── sql-joins/
-│   ├── basic_joins.sql
-│   ├── join_with_conditions.sql
-│   ├── joins_with_aggregation.sql
-│   ├── data_setup.sql
-│   └── README.md
-├── sql-aggregation/
 ├── sql-intermediate/
+│   ├── sql_intermediate_intro.md
+│   ├── sql-joins/
+│   │   ├── data_setup.sql
+│   │   ├── basic_joins.sql
+│   │   ├── join_with_conditions.sql
+│   │   ├── joins_with_aggregation.sql
+│   │   └── README.md
+│
+│   ├── sql-aggregation/
+│   │   ├── group_by.sql
+│   │   ├── having.sql
+│   │   └── README.md
+│
+│   ├── sql-window-functions/
+│   │   ├── row_number.sql
+│   │   ├── rank_dense_rank.sql
+│   │   └── README.md
 ├── sql-advanced/
 ├── sql-projects/
 │
@@ -76,6 +67,48 @@ sql-data-analyst-portfolio/
 
 ---
 
-## 📈 Goal
+## 📌 SQL Basics
+
+This section covers foundational SQL concepts:
+
+- Filtering using `WHERE`  
+- Pattern matching using `LIKE`  
+- Sorting using `ORDER BY`  
+- Conditional operators (`AND`, `OR`, `BETWEEN`)  
+
+**Dataset used:**  
+`employees (id, name, department, salary, joining_date)`
+
+---
+
+## 📌 SQL Intermediate
+## 🔗 SQL Joins
+
+This section focuses on combining data from multiple tables.
+
+### Topics Covered:
+- INNER JOIN  
+- LEFT JOIN  
+- RIGHT JOIN  
+- Finding missing data using `JOIN + NULL`  
+- Aggregations with joins (`SUM`, `COUNT`)  
+
+### Example Tables:
+- Customers (customer_id, name, city)  
+- Orders (order_id, customer_id, amount)  
+
+### Key Learnings:
+- INNER JOIN → matching records  
+- LEFT JOIN → keeps all left table data  
+- NULL filtering → identify missing relationships  
+- Aggregations → derive business insights  
+
+---
+
+## 🎯 Goal
 
 To strengthen SQL skills for data analysis and business problem solving.
+
+## 🔗 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/divya-devendra-singh
