@@ -1,4 +1,0 @@
--- SELECT and WHERE
-SELECT * 
-FROM orders
-WHERE amount > 1000;
