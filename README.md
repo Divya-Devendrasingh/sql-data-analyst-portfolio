@@ -6,11 +6,10 @@ This repository contains SQL practice and real-world projects covering:
 
 ## 🧠 Topics Covered
 
-- Data Cleaning  
-- Aggregations  
-- Joins  
-- Window Functions  
-- Business Case Analysis  
+- SQL Basics → Filtering, Sorting, Functions  
+- SQL Intermediate → Joins, Aggregations, Case-When, Subqueries, Window Functions  
+- SQL Advanced → (Coming soon)  
+- SQL Projects → (Coming soon)
 
 ---
 
@@ -18,15 +17,6 @@ This repository contains SQL practice and real-world projects covering:
 
 - MySQL / PostgreSQL  
 - Real-world style datasets (sales, e-commerce)
-
----
-
-## 📚 Learning Path
-
-- SQL Basics → Filtering, Sorting, Functions  
-- SQL Intermediate → Joins, Aggregations, Window Functions  
-- SQL Advanced → (Coming soon)  
-- SQL Projects → (Coming soon)  
 
 ---
 
@@ -84,6 +74,7 @@ This section covers foundational SQL concepts:
 ---
 
 ## 📌 SQL Intermediate
+
 ## 🔗 Joins
 
 This section focuses on combining data from multiple tables.
@@ -126,6 +117,73 @@ This folder contains SQL queries using GROUP BY and HAVING for data analysis.
 - Customer order analysis
 - Revenue calculation
 - Performance tracking
+
+## 🔗 CASE WHEN
+
+This folder contains SQL queries using CASE WHEN to apply conditional logic within queries.
+
+## Topics Covered:
+- Conditional logic using CASE WHEN
+- Multiple condition handling
+- CASE WHEN with aggregations
+- Creating derived columns
+
+## Key Learnings:
+- CASE WHEN works like IF-ELSE logic in SQL
+- Conditions are evaluated in order
+- Can be used with aggregation functions
+- Helps transform raw data into meaningful categories
+
+## Use Cases:
+- Customer segmentation  
+- Categorizing data (High / Medium / Low)  
+- Creating flags (Above Avg / Below Avg)  
+- Business rule implementation
+
+## 🔗 Subqueries
+
+This folder contains SQL queries using subqueries to perform nested queries for filtering and calculations.
+
+## Topics Covered:
+- Scalar subqueries (single value)
+- IN and EXISTS subqueries
+- Subqueries with aggregation
+- Nested queries for filtering
+
+## Key Learnings:
+- Subqueries allow multi-step query logic
+- Can be used in SELECT, WHERE, and HAVING
+- Must return compatible data for comparison
+- Useful for comparing values like averages or totals
+
+## Use Cases:
+- Filtering based on averages  
+- Comparing values across groups  
+- Identifying high-performing customers  
+- Breaking complex problems into smaller queries
+
+## 🔗 Window Functions
+
+This folder contains SQL queries using window functions to perform calculations across rows without collapsing the dataset.
+
+## Topics Covered:
+- ROW_NUMBER(), RANK(), DENSE_RANK()
+- PARTITION BY for grouping within window functions
+- ORDER BY within window functions
+- Ranking and ordering data
+- Running totals and cumulative calculations
+
+## Key Learnings:
+- Window functions do not reduce the number of rows
+- PARTITION BY divides data into logical groups
+- ORDER BY defines calculation sequence
+- Useful for ranking and analytical queries
+
+## Use Cases:
+- Top N records per group  
+- Latest record per customer  
+- Ranking customers/orders  
+- Running totals and trend analysis 
 
 ---
 
