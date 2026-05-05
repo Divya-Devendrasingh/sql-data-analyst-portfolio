@@ -52,6 +52,12 @@ sql-data-analyst-portfolio/
 │   │   ├── group_by.sql
 │   │   └──  having.sql
 │
+│   ├── case_when/
+│   │   └── case_when.sql
+│
+│   ├── subqueries/
+│   └── subqueries.sql
+│
 │   ├── window-functions/
 │   │   ├── row_number.sql
 │   │   └── rank_dense_rank.sql
