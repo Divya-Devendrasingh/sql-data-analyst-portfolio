@@ -10,7 +10,7 @@ This repository contains SQL practice and real-world data analysis covering:
 - SQL Intermediate → Joins, Aggregations, Case-When, Subqueries, Window Functions  
 - SQL Advanced → CTEs, Set Operations, Grouping Sets, Rollup & Cube, Date & Time Functions,
                   String Functions, Indexing, Advanced Join Types, Query Optimization
-- SQL Interview Practice → 150+ Solved SQL Queries covering Basics, Joins, Subqueries, 
+- SQL Interview Practice → Solved Hands-on SQL Queries covering Basics, Joins, Subqueries, 
                   CTEs, Window Functions, Gap & Island, and Real-world Interview Problems 
 
 ---
@@ -48,7 +48,7 @@ sql-data-analyst-portfolio/
 │   │   └── case_when.sql
 │
 │   ├── subqueries/
-│   └── subqueries.sql
+│   │   └── subqueries.sql
 │
 │   ├── window-functions/
 │   │   ├── row_number.sql
@@ -210,9 +210,6 @@ This section contains hands-on SQL interview questions covering beginner to adva
 - Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD)
 - Running Totals and Ranking Problems
 - Gap & Island Problems
-- Set Operations
-- Real-world Business SQL Scenarios
-- Mixed SQL Interview Questions
 
 ### Dataset used:
 - Employees (employee_id, employee_name, department, salary, joining_date)
@@ -247,9 +244,18 @@ This section contains hands-on SQL interview questions covering beginner to adva
 - Real-world business case studies
 ---
 
+## 📈 Repository Highlights
+
+- 📚 Beginner to Advanced SQL Concepts
+- 💡 Interview-focused SQL Practice
+- 📊 Real-world Business Scenarios
+- 🪟 Window Functions
+- 🔄 Gap & Island Problems
+- 📝 Well-documented SQL Solutions
+
 ## 🎯 Goal
 
-To strengthen SQL skills for data analysis and business problem solving.
+Build a comprehensive SQL portfolio that demonstrates proficiency in SQL fundamentals, analytical querying, and interview-oriented problem solving for Data Analyst and Business Intelligence roles.
 
 ## 🔗 Connect with Me
 
