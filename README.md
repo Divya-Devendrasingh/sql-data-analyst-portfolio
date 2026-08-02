@@ -68,15 +68,14 @@ sql-data-analyst-portfolio/
 │
 ├── sql-interview-practice/
 │   ├── 01_sql_basics_practice.sql
-│   ├── 02_joins_practice.sql
+│   ├── 02_aggregate_functions_practice.sql
 │   ├── 03_groupby_having_practice.sql
-│   ├── 04_subqueries_practice.sql
-│   ├── 05_cte_practice.sql
-│   ├── 06_window_functions_practice.sql
-│   ├── 07_gap_and_island_practice.sql
-│   ├── 08_case_when_practice.sql
-│   ├── 09_real_world_business_queries.sql
-│   └── 10_mixed_interview_questions.sql
+│   ├── 04_joins_practice.sql
+│   ├── 05_case_when_coalesce_practice.sql
+│   ├── 06_subqueries_practice.sql
+│   ├── 07_cte_practice.sql
+│   ├── 08_window_functions_practice.sql
+│   └── 09_gap_and_island_practice.sql
 └── README.md
 ```
 
