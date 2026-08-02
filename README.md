@@ -44,12 +44,16 @@ This repository contains SQL practice and real-world data analysis covering:
 ```
 sql-data-analyst-portfolio/
 │
+├── README.md
+├── LICENSE
+│
 ├── sql-basics/
 │   ├── an_intro_of_sql_basics.md
 │   ├── basic_filters.sql
 │   ├── pattern_matching.sql
 │   ├── sorting.sql
 │   └── string_functions.sql
+│
 ├── sql-intermediate/
 │   ├── an_intro_of_sql_intermediate.md
 │   ├── joins/
@@ -57,20 +61,17 @@ sql-data-analyst-portfolio/
 │   │   ├── basic_joins.sql
 │   │   ├── join_with_conditions.sql
 │   │   └── joins_with_aggregation.sql
-│
 │   ├── aggregation/
 │   │   ├── group_by.sql
-│   │   └──  having.sql
-│
+│   │   └── having.sql
 │   ├── case_when/
 │   │   └── case_when.sql
-│
 │   ├── subqueries/
 │   │   └── subqueries.sql
+│   └── window-functions/
+│       ├── row_number.sql
+│       └── rank_dense_rank.sql
 │
-│   ├── window-functions/
-│   │   ├── row_number.sql
-│   │   └── rank_dense_rank.sql
 ├── sql-advanced/
 │   ├── cte_queries.sql
 │   ├── window_functions.sql
@@ -94,6 +95,7 @@ sql-data-analyst-portfolio/
 │   ├── 07_cte_practice.sql
 │   ├── 08_window_functions_practice.sql
 │   └── 09_gap_and_island_practice.sql
+├── LICENSE
 └── README.md
 ```
 
