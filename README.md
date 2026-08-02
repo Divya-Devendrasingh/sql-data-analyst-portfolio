@@ -272,13 +272,4 @@ If you have feedback, suggestions, or would like to connect, feel free to reach 
 **LinkedIn:**  
 https://www.linkedin.com/in/divya-devendra-singh
 
-Thank you for visiting my SQL Data Analyst Portfolio!---
-
-## 🤝 Connect with Me
-
-If you have feedback, suggestions, or would like to connect, feel free to reach out.
-
-**LinkedIn:**  
-https://www.linkedin.com/in/divya-devendra-singh
-
 Thank you for visiting this repository!
