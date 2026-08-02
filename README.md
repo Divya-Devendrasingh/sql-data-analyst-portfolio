@@ -1,6 +1,6 @@
 # SQL Data Analyst Portfolio
 
-This repository contains SQL practice and real-world projects covering:
+This repository contains SQL practice and real-world data analysis covering:
 
 ---
 
@@ -9,8 +9,9 @@ This repository contains SQL practice and real-world projects covering:
 - SQL Basics → Filtering, Sorting, Functions  
 - SQL Intermediate → Joins, Aggregations, Case-When, Subqueries, Window Functions  
 - SQL Advanced → CTEs, Set Operations, Grouping Sets, Rollup & Cube, Date & Time Functions,
-                  String Functions, Indexing, Advanced Join Types, Query Optimization 
-- SQL Projects → (Coming soon)
+                  String Functions, Indexing, Advanced Join Types, Query Optimization
+- SQL Interview Practice → 150+ Solved SQL Queries covering Basics, Joins, Subqueries, 
+                  CTEs, Window Functions, Gap & Island, and Real-world Interview Problems 
 
 ---
 
@@ -64,8 +65,18 @@ sql-data-analyst-portfolio/
 │   ├── string_functions.sql
 │   ├── indexing.sql
 │   └── advanced_join_types.sql
-├── sql-projects/
 │
+├── sql-interview-practice/
+│   ├── 01_sql_basics_practice.sql
+│   ├── 02_joins_practice.sql
+│   ├── 03_groupby_having_practice.sql
+│   ├── 04_subqueries_practice.sql
+│   ├── 05_cte_practice.sql
+│   ├── 06_window_functions_practice.sql
+│   ├── 07_gap_and_island_practice.sql
+│   ├── 08_case_when_practice.sql
+│   ├── 09_real_world_business_queries.sql
+│   └── 10_mixed_interview_questions.sql
 └── README.md
 ```
 
@@ -183,6 +194,58 @@ This section covers advanced SQL concepts used for analytical querying and perfo
 - Identifying missing or duplicate records
 - Advanced business analytics
 
+---
+
+## 📌 SQL Interview Practice
+
+This section contains hands-on SQL interview questions covering beginner to advanced concepts. Each practice file includes sample datasets, interview questions, SQL solutions, and alternative approaches where applicable.
+
+### Topics Covered:
+- SQL Basics
+- Aggregate Functions
+- GROUP BY and HAVING
+- Joins (INNER, LEFT, RIGHT, SELF)
+- CASE WHEN and COALESCE
+- Subqueries and Correlated Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD)
+- Running Totals and Ranking Problems
+- Gap & Island Problems
+- Set Operations
+- Real-world Business SQL Scenarios
+- Mixed SQL Interview Questions
+
+### Dataset used:
+- Employees (employee_id, employee_name, department, salary, joining_date)
+- Departments (department_id, department_name)
+- Customers (customer_id, customer_name, city)
+- Orders (order_id, customer_id, amount, order_date)
+- Sales (sale_id, customer_id, product_id, sale_date, amount)
+- Products (product_id, product_name, category, price)
+- Login (login_id, user_id, login_date)
+- Attendance (employee_id, attendance_date)
+- Customers_India (customer_id, customer_name)
+- Customers_USA (customer_id, customer_name)
+
+### Key Learnings:
+- Solving real SQL interview questions using multiple approaches
+- Choosing the appropriate SQL concept based on the problem statement
+- Applying Joins, Subqueries, CTEs, and Window Functions effectively
+- Solving ranking, running total, and analytical reporting problems
+- Identifying consecutive records using Gap & Island techniques
+- Improving query readability and optimization
+- Developing business-oriented problem-solving skills
+
+### Use Cases:
+- Data Analyst interview preparation
+- SQL coding practice
+- Business reporting and analytics
+- Customer behavior analysis
+- Revenue and sales reporting
+- Ranking and trend analysis
+- Consecutive activity (Gap & Island) analysis
+- Query optimization practice
+- Real-world business case studies
 ---
 
 ## 🎯 Goal
