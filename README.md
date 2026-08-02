@@ -257,6 +257,28 @@ This section contains hands-on SQL interview questions covering beginner to adva
 
 Build a comprehensive SQL portfolio that demonstrates proficiency in SQL fundamentals, analytical querying, and interview-oriented problem solving for Data Analyst and Business Intelligence roles.
 
-## 🔗 Connect with Me
+---
 
-LinkedIn: https://www.linkedin.com/in/divya-devendra-singh
+![SQL](https://img.shields.io/badge/SQL-Interview_Practice-blue)
+![Level](https://img.shields.io/badge/Level-Beginner_to_Advanced-green)
+![Topics](https://img.shields.io/badge/Topics-Window_Functions_|_CTEs_|_Joins-orange)
+
+---
+
+## 🤝 Connect with Me
+
+If you have feedback, suggestions, or would like to connect, feel free to reach out.
+
+**LinkedIn:**  
+https://www.linkedin.com/in/divya-devendra-singh
+
+Thank you for visiting my SQL Data Analyst Portfolio!---
+
+## 🤝 Connect with Me
+
+If you have feedback, suggestions, or would like to connect, feel free to reach out.
+
+**LinkedIn:**  
+https://www.linkedin.com/in/divya-devendra-singh
+
+Thank you for visiting this repository!
