@@ -1,5 +1,9 @@
 # SQL Data Analyst Portfolio
 
+![SQL](https://img.shields.io/badge/SQL-Interview_Practice-blue)
+![Level](https://img.shields.io/badge/Level-Beginner_to_Advanced-green)
+![Topics](https://img.shields.io/badge/Topics-Window_Functions_|_CTEs_|_Joins-orange)
+
 This repository contains SQL practice and real-world data analysis covering:
 
 ---
@@ -10,15 +14,29 @@ This repository contains SQL practice and real-world data analysis covering:
 - SQL Intermediate → Joins, Aggregations, Case-When, Subqueries, Window Functions  
 - SQL Advanced → CTEs, Set Operations, Grouping Sets, Rollup & Cube, Date & Time Functions,
                   String Functions, Indexing, Advanced Join Types, Query Optimization
-- SQL Interview Practice → Solved Hands-on SQL Queries covering Basics, Joins, Subqueries, 
-                  CTEs, Window Functions, Gap & Island, and Real-world Interview Problems 
-
+- SQL Interview Practice → Hands-on SQL interview questions with datasets, problem statements, 
+                  and solved queries covering Basics, Joins, Subqueries, CTEs, Window Functions, 
+                  Gap & Island, and real-world business scenarios.
 ---
 
 ## 🛠️ Tools Used
 
 - MySQL / PostgreSQL  
 - Real-world style datasets (sales, e-commerce)
+
+---
+
+## 🚀 Skills Demonstrated
+
+- SQL Query Writing
+- Data Analysis & Reporting
+- Business Problem Solving
+- Data Aggregation & Filtering
+- Window Functions
+- Common Table Expressions (CTEs)
+- Joins & Subqueries
+- Gap & Island Pattern
+- Query Optimization
 
 ---
 
@@ -259,17 +277,11 @@ Build a comprehensive SQL portfolio that demonstrates proficiency in SQL fundame
 
 ---
 
-![SQL](https://img.shields.io/badge/SQL-Interview_Practice-blue)
-![Level](https://img.shields.io/badge/Level-Beginner_to_Advanced-green)
-![Topics](https://img.shields.io/badge/Topics-Window_Functions_|_CTEs_|_Joins-orange)
-
----
-
 ## 🤝 Connect with Me
 
 If you have feedback, suggestions, or would like to connect, feel free to reach out.
 
 **LinkedIn:**  
-https://www.linkedin.com/in/divya-devendra-singh
+<https://www.linkedin.com/in/divya-devendra-singh>
 
 Thank you for visiting this repository!
