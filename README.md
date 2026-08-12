@@ -96,6 +96,12 @@ sql-data-analyst-portfolio/
 │   ├── 08_window_functions_practice.sql
 │   └── 09_gap_and_island_practice.sql
 │   └── 10_sql_practice_session_1.sql
+└── sql-case-studies/
+│   ├── 01_sales_analysis/
+│   ├── 02_customer_analysis/
+│   ├── 03_ecommerce_analysis/
+│   ├── 04_employee_analysis/
+│   └── 05_business_performance_analysis/
 ```
 
 ---
