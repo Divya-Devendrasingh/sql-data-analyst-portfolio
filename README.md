@@ -95,8 +95,7 @@ sql-data-analyst-portfolio/
 │   ├── 07_cte_practice.sql
 │   ├── 08_window_functions_practice.sql
 │   └── 09_gap_and_island_practice.sql
-├── LICENSE
-└── README.md
+│   └── 10_sql_practice_session_1.sql
 ```
 
 ---
@@ -217,7 +216,7 @@ This section covers advanced SQL concepts used for analytical querying and perfo
 
 ## 📌 SQL Interview Practice
 
-This section contains hands-on SQL interview questions covering beginner to advanced concepts. Each practice file includes sample datasets, interview questions, SQL solutions, and alternative approaches where applicable.
+This section contains hands-on SQL interview questions covering beginner to advanced concepts. Each practice file contains interview-style questions, sample datasets where required, and my solved SQL queries.
 
 ### Topics Covered:
 - SQL Basics
@@ -260,7 +259,6 @@ This section contains hands-on SQL interview questions covering beginner to adva
 - Revenue and sales reporting
 - Ranking and trend analysis
 - Consecutive activity (Gap & Island) analysis
-- Query optimization practice
 - Real-world business case studies
 ---
 
